@@ -54,7 +54,6 @@ class Item
     }
     
     /**
-     * 
      * @return \Cache\Cache
      */
     protected function getCache()
