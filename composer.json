@@ -1,5 +1,5 @@
 {
-    "name": "inscure/collection",
+    "name": "inscure/cache",
     "authors": [
         {
             "name": "Paweł Zegardło",
@@ -9,7 +9,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Collection\\": "src"
+            "Cache\\": "src"
         }
     }
 }
