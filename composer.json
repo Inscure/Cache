@@ -1,0 +1,15 @@
+{
+    "name": "inscure/collection",
+    "authors": [
+        {
+            "name": "Paweł Zegardło",
+            "email": "pawel.zegardlo@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Collection\\": "src"
+        }
+    }
+}
