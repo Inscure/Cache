@@ -26,7 +26,7 @@ class Cache
     
     public function get($name)
     {
-        return $this->get($name)->getValue();
+        return $this->getItem($name)->getValue();
     }
     
     protected function getItem($name)
